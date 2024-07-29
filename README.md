@@ -1,13 +1,11 @@
-# 👋 Hi, I’m @samsondavid381
+👋 Hi, I’m @samsondavid381
 
-## 👀 Interests
-I’m passionate about software engineering, front-end engineering, and artificial intelligence. 
+👀 I’m interested in software engineering, front end engineering, and artificial intelligence.
 
-## 🌱 Currently Learning
-I’m currently pursuing a computer science degree from the University of Central Florida.
+🌱 I’m currently learning computer science at the University of Central Florida.
 
-## 💞️ Collaboration
-I’m looking to collaborate on innovative tech projects that push the boundaries of what's possible and help me learn!
+💞️ I’m looking to collaborate on software engineering projects, especially those involving AI. I love solving problems and working with passionate people.
 
-## ⚡ Fun Fact
-I am a language / etymology nerd and love learning languages like Spanish, Italian, Hebrew, and more!
+📫 How to reach me: samsondavid381@gmail.com
+
+⚡ Fun fact: I am a language nerd; I enjoy learning languages like Spanish, Italian, Hebrew, etc.
